@@ -31,4 +31,5 @@
 *.out
 *.app
 
-./controller/build*
+./controller/build/*
+./controller/rootfs/*
