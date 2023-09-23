@@ -31,5 +31,5 @@
 *.out
 *.app
 
-./controller/build/*
-./controller/rootfs/*
+./controller/system/*
+!./controller/system/.gitkeep
