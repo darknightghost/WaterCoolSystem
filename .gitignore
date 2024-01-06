@@ -33,3 +33,4 @@
 
 ./controller/system/*
 !./controller/system/.gitkeep
+*.FCStd1
